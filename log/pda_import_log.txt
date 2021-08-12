@@ -1,0 +1,59 @@
+Logdatei PDA-Import vom 05.08.2021 - 15:51
+------------------------------------------
+Gelieferte Datensätze:             2841
+Sätze ohne Dubletten:              2181
+   Dubletten:              660
+   Auswahl zum Einspielen:         320
+--------------------------------------------
+
+Am Bestand abzugleichen:           2501
+        davon vorhanden:           78
+--------------------------------------------
+
+Eingespielt werden:                2423
+============================================================
+Logdatei PDA-Import vom 09.08.2021 - 11:20
+------------------------------------------
+Gelieferte Datensätze:             2990
+Sätze ohne Dubletten:              2295
+   Dubletten:              695
+   Auswahl zum Einspielen:         337
+--------------------------------------------
+
+Am Bestand abzugleichen:           2632
+        davon vorhanden:           101
+--------------------------------------------
+
+Eingespielt werden:                2531
+============================================================
+
+Logdatei PDA-Import vom 12.08.2021 - 14:01
+------------------------------------------
+Gelieferte Datensätze:             2990
+Sätze ohne Dubletten:              2295
+   Dubletten:              695
+   Auswahl zum Einspielen:         337
+--------------------------------------------
+
+Am Bestand abzugleichen:           2632
+        davon vorhanden:           101
+--------------------------------------------
+
+Eingespielt werden:                2531
+============================================================
+
+Logdatei PDA-Import vom 12.08.2021 - 15:37
+------------------------------------------
+Gelieferte Datensätze:             3202
+Sätze ohne Dubletten:              2472
+   Dubletten:              730
+   Auswahl zum Einspielen:         354
+--------------------------------------------
+
+Am Bestand abzugleichen:           2826
+        davon vorhanden:           104
+--------------------------------------------
+
+Eingespielt werden:                2722
+============================================================
+
