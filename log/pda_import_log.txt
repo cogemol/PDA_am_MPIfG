@@ -57,3 +57,18 @@ Am Bestand abzugleichen:           2826
 Eingespielt werden:                2722
 ============================================================
 
+Logdatei PDA-Import vom 16.08.2021 - 12:42
+------------------------------------------
+Gelieferte Datensätze:             3530
+Sätze ohne Dubletten:              2745
+   Dubletten:              785
+   Auswahl zum Einspielen:         381
+--------------------------------------------
+
+Am Bestand abzugleichen:           3126
+        davon vorhanden:           105
+--------------------------------------------
+
+Eingespielt werden:                3021
+============================================================
+
