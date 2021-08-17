@@ -14,7 +14,6 @@ The import into Aleph allows us to check and work with the data before they are 
 
 - Documentation is included as comments in the Jupyter Notebook itself, see [PDA_MPIfG.ipynb](PDA_MPIfG.ipynb).
 - As there is a second step necessary to enrich the data with a working permanent Mailto-Link, a second Jupyter Notebook titled [mailto_link_skript](mailto_link_skript.ipynb) is also included in this repo.
-- an executable version of this notebook has been made accessible via [mybinder.org](https://mybinder.org/v2/gh/cogemol/PDA_am_MPIfG/HEAD)
 
 ## Requirements
 
